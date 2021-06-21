@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="MAIF">
+        <serverdata>
+          <mappings>
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/CV.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.5.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.3" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.24" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Wordpress Map Multi Marker">
+        <serverdata>
+          <mappings>
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/CV.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.5.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.3" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.24" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="http://laboutiqueducadre.dev/">
+        <serverdata>
+          <mappings>
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/CV.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.5.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.3" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.24" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="listengo">
+        <serverdata>
+          <mappings>
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/CV.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.5.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.3" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.24" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="map_multi_marker">
+        <serverdata>
+          <mappings>
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/CV.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.5.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.3" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.24" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="testPhoneGap">
+        <serverdata>
+          <mappings>
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/CV.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.5.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.3" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.24" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tp_cyprien_sondages">
+        <serverdata>
+          <mappings>
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/CV.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.5.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.3" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.24" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wordpress_map_multi_marker">
+        <serverdata>
+          <mappings>
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr" web="/" />
+            <mapping local="/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui" web="/" />
+            <mapping local="$PROJECT_DIR$/CV.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.5.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ext.nunit@1.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.2.3" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.24" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6" web="/" />
+            <mapping local="$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8" web="/" />
+            <mapping local="$PROJECT_DIR$/Packages" web="/" />
+            <mapping local="$PROJECT_DIR$/ProjectSettings" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
